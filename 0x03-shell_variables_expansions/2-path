@@ -1,2 +1,2 @@
 #!/bin/bash
-export $PATH:/add
+export PATH="bin:$PATH"
